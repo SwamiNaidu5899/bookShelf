@@ -1,0 +1,32 @@
+.card-in{
+    padding: 15px;
+    height: 25vh;
+    background-color: rgb(148, 102, 192);
+    color: white;
+    border-radius: 12px;
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.headingEl{
+    font-size: 40px;
+}
+
+.card-in h6{
+    font-size: 20px;
+}
+
+.card-in p{
+    font-size: 17px;
+}
+
+.card-in button{
+    border-radius: 4px;
+    background-color: white;
+    color: blueviolet;
+    border: none;
+    height: 5vh;
+    font-size: 17px;
+}

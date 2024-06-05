@@ -1,0 +1,17 @@
+.btn{
+  color: white;
+  background-color: orangered;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 12px;
+  margin-top: 0.7vh;
+}
+
+.search{
+  position: relative;
+  left: -20%;
+}
+
+.headingEl{
+  font-size: 10px;
+}
